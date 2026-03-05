@@ -1,0 +1,3 @@
+/home/dan/sandbox/wx-messing/CMakeFiles/wxApp.dir
+/home/dan/sandbox/wx-messing/CMakeFiles/edit_cache.dir
+/home/dan/sandbox/wx-messing/CMakeFiles/rebuild_cache.dir

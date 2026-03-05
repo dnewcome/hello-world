@@ -1,0 +1,6 @@
+had to insert readline in the script to get it to plot something before exiting
+https://stackoverflow.com/questions/33933584/maxima-batch-mode-quits-before-plotting
+
+reading here
+https://stackoverflow.com/questions/33933584/maxima-batch-mode-quits-before-plotting
+

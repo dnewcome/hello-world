@@ -1,0 +1,13 @@
+# Python virtualenvs
+.venv/
+venv/
+env/
+py/
+
+# ESP32 build artifacts
+build/
+
+.circleci
+.devcontainer
+.vscode
+*.o
