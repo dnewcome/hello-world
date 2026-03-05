@@ -1,0 +1,3 @@
+this is exporation of using goroutines and channels
+I did a thing with using crypto to do high-cpu load and see the impact on 
+cpu cores. 
